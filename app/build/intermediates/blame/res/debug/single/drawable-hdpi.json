@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhiqiangfeng/Downloads/commondraw-master/MapTest/app/build/intermediates/res/merged/debug/drawable-hdpi/test.png",
+        "source": "/Users/zhiqiangfeng/Downloads/commondraw-master/MapTest/app/src/main/res/drawable-hdpi/test.png"
+    },
+    {
+        "merged": "/Users/zhiqiangfeng/Downloads/commondraw-master/MapTest/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_marka.png",
+        "source": "/Users/zhiqiangfeng/Downloads/commondraw-master/MapTest/app/src/main/res/drawable-hdpi/icon_marka.png"
+    },
+    {
+        "merged": "/Users/zhiqiangfeng/Downloads/commondraw-master/MapTest/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/zhiqiangfeng/Downloads/commondraw-master/MapTest/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

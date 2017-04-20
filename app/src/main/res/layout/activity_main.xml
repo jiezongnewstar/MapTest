@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.example.maptest.MyMap
+            android:id="@+id/sceneMap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="放大" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_out"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button_in"
+        android:text="缩小" />
+
+</LinearLayout>
